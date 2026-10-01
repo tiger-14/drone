@@ -1,6 +1,8 @@
 # TSA Drone Project
 A custom-built quadcopter drone with an integrated claw and live video feed, designed to remotely locate and retrieve caged and uncaged animals for TSA's 2026 Drone Challenge (Safari Rescue mission).
 
+<img width="601" height="598" alt="image" src="https://github.com/user-attachments/assets/5db0209b-1781-4c3a-ad2e-87f845e1ab5b" />
+
 <img width="982" height="625" alt="image" src="https://github.com/user-attachments/assets/326455fe-56a2-43a1-b644-139c3d407ec6" />
 
 ## 30+ Page Documentation Portfolio

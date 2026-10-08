@@ -8,7 +8,7 @@ A custom-built quadcopter drone with an integrated claw and live video feed, des
 ## 30+ Page Documentation Portfolio
 The portfolio documents the complete build process of the drone with a photo log, a work log, engineered drawings, wired diagrams, and more
 
-[Documentation Portfolio - Drone Challenge UAV.pdf](Documentation%20Portfolio%20-%20Drone%20Challenge%20UAV.pdf)
+[Documentation Portfolio - Drone Challenge UAV.pdf](https://raw.githubusercontent.com/tiger-14/drone/main/Documentation%20Portfolio%20-%20Drone%20Challenge%20UAV.pdf)
 
 ## Features
 

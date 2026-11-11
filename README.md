@@ -4,6 +4,8 @@ Drone V1 protopye that did not function, we want to make this better and for thi
 
 <img width="982" height="625" alt="image" src="https://github.com/user-attachments/assets/326455fe-56a2-43a1-b644-139c3d407ec6" />
 
+<img width="628" height="358" alt="image" src="https://github.com/user-attachments/assets/377447d0-d089-4bd7-80b7-a020c587d3be" />
+
 ## Features
 
 - 3D-printed frame, base structure, and claw mechanism, designed in SolidWorks
